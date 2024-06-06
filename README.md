@@ -1,243 +1,241 @@
-![cover-v5-optimized](https://github.com/langgenius/dify/assets/13230914/f9e19af5-61ba-4119-b926-d10c4c06ebab)
-
-<p align="center">
-  <a href="https://cloud.dify.ai">Dify Cloud</a> ·
-  <a href="https://docs.dify.ai/getting-started/install-self-hosted">Self-hosting</a> ·
-  <a href="https://docs.dify.ai">Documentation</a> ·
-  <a href="https://cal.com/guchenhe/60-min-meeting">Enterprise inquiry</a>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/13230914/321628871-f9e19af5-61ba-4119-b926-d10c4c06ebab.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc3MTAzOTAsIm5iZiI6MTcxNzcxMDA5MCwicGF0aCI6Ii8xMzIzMDkxNC8zMjE2Mjg4NzEtZjllMTlhZjUtNjFiYS00MTE5LWI5MjYtZDEwYzRjMDZlYmFiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA2VDIxNDEzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3YWRiZjM1NzVmMjYxMTJlMzMzOTFhNzM0MzcwMWQ1NTE0MTEzNzE4NWEwZTI2N2E3NjI5NzU1YWU3MThkYWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.wDIahtJhCL-4mVTz27XjhY4XnITGMcnWMAJRG4mffAQ"><img src="https://private-user-images.githubusercontent.com/13230914/321628871-f9e19af5-61ba-4119-b926-d10c4c06ebab.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc3MTAzOTAsIm5iZiI6MTcxNzcxMDA5MCwicGF0aCI6Ii8xMzIzMDkxNC8zMjE2Mjg4NzEtZjllMTlhZjUtNjFiYS00MTE5LWI5MjYtZDEwYzRjMDZlYmFiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA2VDIxNDEzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3YWRiZjM1NzVmMjYxMTJlMzMzOTFhNzM0MzcwMWQ1NTE0MTEzNzE4NWEwZTI2N2E3NjI5NzU1YWU3MThkYWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.wDIahtJhCL-4mVTz27XjhY4XnITGMcnWMAJRG4mffAQ" alt="cover-v5-优化" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto">
+  <a href="https://cloud.dify.ai" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dify Cloud</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ·
+  </font></font><a href="https://docs.dify.ai/getting-started/install-self-hosted" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自托管</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">·
+  </font></font><a href="https://docs.dify.ai" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">·
+  </font></font><a href="https://cal.com/guchenhe/60-min-meeting" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">企业咨询</font></font></a>
 </p>
-
-<p align="center">
-    <a href="https://dify.ai" target="_blank">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Product-F04438"></a>
-    <a href="https://dify.ai/pricing" target="_blank">
-        <img alt="Static Badge" src="https://img.shields.io/badge/free-pricing?logo=free&color=%20%23155EEF&label=pricing&labelColor=%20%23528bff"></a>
-    <a href="https://discord.gg/FngNHpbcY7" target="_blank">
-        <img src="https://img.shields.io/discord/1082486657678311454?logo=discord&labelColor=%20%235462eb&logoColor=%20%23f5f5f5&color=%20%235462eb"
-            alt="chat on Discord"></a>
-    <a href="https://twitter.com/intent/follow?screen_name=dify_ai" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/dify_ai?logo=X&color=%20%23f5f5f5"
-            alt="follow on Twitter"></a>
-    <a href="https://hub.docker.com/u/langgenius" target="_blank">
-        <img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/langgenius/dify-web?labelColor=%20%23FDB062&color=%20%23f79009"></a>
-    <a href="https://github.com/langgenius/dify/graphs/commit-activity" target="_blank">
-        <img alt="Commits last month" src="https://img.shields.io/github/commit-activity/m/langgenius/dify?labelColor=%20%2332b583&color=%20%2312b76a"></a>
-    <a href="https://github.com/langgenius/dify/" target="_blank">
-        <img alt="Issues closed" src="https://img.shields.io/github/issues-search?query=repo%3Alanggenius%2Fdify%20is%3Aclosed&label=issues%20closed&labelColor=%20%237d89b0&color=%20%235d6b98"></a>
-    <a href="https://github.com/langgenius/dify/discussions/" target="_blank">
-        <img alt="Discussion posts" src="https://img.shields.io/github/discussions/langgenius/dify?labelColor=%20%239b8afb&color=%20%237a5af8"></a>
+<p align="center" dir="auto">
+    <a href="https://dify.ai" rel="nofollow">
+        <img alt="静态徽章" src="https://camo.githubusercontent.com/c1c64fb5ceb456b725baec98d79fd55419ae1a54ae255c775547404161e32d66/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726f647563742d463034343338" data-canonical-src="https://img.shields.io/badge/Product-F04438" style="max-width: 100%;"></a>
+    <a href="https://dify.ai/pricing" rel="nofollow">
+        <img alt="静态徽章" src="https://camo.githubusercontent.com/80ac98d754fb61b6ddd28b99dd8000bf701807ad2718cd0068bdcfeb24a3f6a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f667265652d70726963696e673f6c6f676f3d6672656526636f6c6f723d253230253233313535454546266c6162656c3d70726963696e67266c6162656c436f6c6f723d253230253233353238626666" data-canonical-src="https://img.shields.io/badge/free-pricing?logo=free&amp;color=%20%23155EEF&amp;label=pricing&amp;labelColor=%20%23528bff" style="max-width: 100%;"></a>
+    <a href="https://discord.gg/FngNHpbcY7" rel="nofollow">
+        <img src="https://camo.githubusercontent.com/94b142853719ece687ab3bfced6eaf7a5679f6906f5e13f5fe62fbcb0d36ea58/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f313038323438363635373637383331313435343f6c6f676f3d646973636f7264266c6162656c436f6c6f723d253230253233353436326562266c6f676f436f6c6f723d25323025323366356635663526636f6c6f723d253230253233353436326562" alt="在 Discord 上聊天" data-canonical-src="https://img.shields.io/discord/1082486657678311454?logo=discord&amp;labelColor=%20%235462eb&amp;logoColor=%20%23f5f5f5&amp;color=%20%235462eb" style="max-width: 100%;"></a>
+    <a href="https://twitter.com/intent/follow?screen_name=dify_ai" rel="nofollow">
+        <img src="https://camo.githubusercontent.com/2970dd3f255ad75fc8ccc55bcd7964eb13cfe0c22ecb28fcd8c394819061713f/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f646966795f61693f6c6f676f3d5826636f6c6f723d253230253233663566356635" alt="在 Twitter 上关注" data-canonical-src="https://img.shields.io/twitter/follow/dify_ai?logo=X&amp;color=%20%23f5f5f5" style="max-width: 100%;"></a>
+    <a href="https://hub.docker.com/u/langgenius" rel="nofollow">
+        <img alt="Docker 拉取" src="https://camo.githubusercontent.com/6d295c7722fb6646d2c5ed0686cc416e0330e6b269ea96e741aafd70555c52bd/68747470733a2f2f696d672e736869656c64732e696f2f646f636b65722f70756c6c732f6c616e6767656e6975732f646966792d7765623f6c6162656c436f6c6f723d25323025323346444230363226636f6c6f723d253230253233663739303039" data-canonical-src="https://img.shields.io/docker/pulls/langgenius/dify-web?labelColor=%20%23FDB062&amp;color=%20%23f79009" style="max-width: 100%;"></a>
+    <a href="https://github.com/langgenius/dify/graphs/commit-activity">
+        <img alt="上月提交" src="https://camo.githubusercontent.com/29352225800788da253403a666dacbf287f76707b4f14c26bf538aec79800e41/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6d6d69742d61637469766974792f6d2f6c616e6767656e6975732f646966793f6c6162656c436f6c6f723d25323025323333326235383326636f6c6f723d253230253233313262373661" data-canonical-src="https://img.shields.io/github/commit-activity/m/langgenius/dify?labelColor=%20%2332b583&amp;color=%20%2312b76a" style="max-width: 100%;"></a>
+    <a href="https://github.com/langgenius/dify/">
+        <img alt="问题已解决" src="https://camo.githubusercontent.com/7073da03d4ab2c7d07e2c5aaa6af531b4b138b190938454d32fd0666aa248a02/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d7365617263683f71756572793d7265706f2533416c616e6767656e697573253246646966792532306973253341636c6f736564266c6162656c3d697373756573253230636c6f736564266c6162656c436f6c6f723d25323025323337643839623026636f6c6f723d253230253233356436623938" data-canonical-src="https://img.shields.io/github/issues-search?query=repo%3Alanggenius%2Fdify%20is%3Aclosed&amp;label=issues%20closed&amp;labelColor=%20%237d89b0&amp;color=%20%235d6b98" style="max-width: 100%;"></a>
+    <a href="https://github.com/langgenius/dify/discussions/">
+        <img alt="讨论帖子" src="https://camo.githubusercontent.com/0066fd08214f7bb8335e80f27dced1215fde24018e12d9ec1e3994573014ce74/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f64697363757373696f6e732f6c616e6767656e6975732f646966793f6c6162656c436f6c6f723d25323025323339623861666226636f6c6f723d253230253233376135616638" data-canonical-src="https://img.shields.io/github/discussions/langgenius/dify?labelColor=%20%239b8afb&amp;color=%20%237a5af8" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-  <a href="./README.md"><img alt="README in English" src="https://img.shields.io/badge/English-d9d9d9"></a>
-  <a href="./README_CN.md"><img alt="简体中文版自述文件" src="https://img.shields.io/badge/简体中文-d9d9d9"></a>
-  <a href="./README_JA.md"><img alt="日本語のREADME" src="https://img.shields.io/badge/日本語-d9d9d9"></a>
-  <a href="./README_ES.md"><img alt="README en Español" src="https://img.shields.io/badge/Español-d9d9d9"></a>
-  <a href="./README_FR.md"><img alt="README en Français" src="https://img.shields.io/badge/Français-d9d9d9"></a>
-  <a href="./README_KL.md"><img alt="README tlhIngan Hol" src="https://img.shields.io/badge/Klingon-d9d9d9"></a>
-  <a href="./README_KR.md"><img alt="README in Korean" src="https://img.shields.io/badge/한국어-d9d9d9"></a>
+<p align="center" dir="auto">
+  <a href="/langgenius/dify/blob/main/README.md"><img alt="英文自述文件" src="https://camo.githubusercontent.com/a9e1b3d7399d8b8e5fd75e47a7a113d2d8f03f43815182a36660a6b5a869aa3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456e676c6973682d643964396439" data-canonical-src="https://img.shields.io/badge/English-d9d9d9" style="max-width: 100%;"></a>
+  <a href="/langgenius/dify/blob/main/README_CN.md"><img alt="English Version 自述文件" src="https://camo.githubusercontent.com/cb78502ba61fc3cd0d3db3f8fc18d4d46302dc07e3925d33b4ffdcba9aec60d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652fe7ae80e4bd93e4b8ade696872d643964396439" data-canonical-src="https://img.shields.io/badge/简体中文-d9d9d9" style="max-width: 100%;"></a>
+  <a href="/langgenius/dify/blob/main/README_JA.md"><img alt="日本語的README" src="https://camo.githubusercontent.com/c0e07cc28005e4b3b21f602b3e7bdc535a58c14ce0c3417dd7aae583d2fa78d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652fe697a5e69cace8aa9e2d643964396439" data-canonical-src="https://img.shields.io/badge/日本語-d9d9d9" style="max-width: 100%;"></a>
+  <a href="/langgenius/dify/blob/main/README_ES.md"><img alt="西班牙语自述文件" src="https://camo.githubusercontent.com/52d512e62105839c5a454c9b10caec6db6b7abb3eadbc31b3a0e293544d0a8c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f45737061c3b16f6c2d643964396439" data-canonical-src="https://img.shields.io/badge/Español-d9d9d9" style="max-width: 100%;"></a>
+  <a href="/langgenius/dify/blob/main/README_FR.md"><img alt="法语自述文件" src="https://camo.githubusercontent.com/712a307d29e9d021f401a5f5c305f254918305fcc7368f95db047e343cfe991b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4672616ec3a76169732d643964396439" data-canonical-src="https://img.shields.io/badge/Français-d9d9d9" style="max-width: 100%;"></a>
+  <a href="/langgenius/dify/blob/main/README_KL.md"><img alt="自述 tlhIngan Hol" src="https://camo.githubusercontent.com/5603b9b9223358c8d9f1eac6282b50d3a58dc25c7a976ac2758d2105ac978c2e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6c696e676f6e2d643964396439" data-canonical-src="https://img.shields.io/badge/Klingon-d9d9d9" style="max-width: 100%;"></a>
+  <a href="/langgenius/dify/blob/main/README_KR.md"><img alt="韩语自述文件" src="https://camo.githubusercontent.com/c81380beb051e1b561b0dfd325e5e914aecca8d41e5ec209998fb5f89caec3a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652fed959ceab5adec96b42d643964396439" data-canonical-src="https://img.shields.io/badge/한국어-d9d9d9" style="max-width: 100%;"></a>
 </p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dify 是一个开源 LLM 应用开发平台。其直观的界面结合了 AI 工作流、RAG 管道、代理功能、模型管理、可观察性功能等，让您可以快速从原型开发转向生产。以下是核心功能列表：
+</font></font><br> <br></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1. 工作流程</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：在可视化画布上构建和测试强大的 AI 工作流程，利用以下所有功能及其他功能。</font></font></p>
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-camera-video">
+    <path d="M16 3.75v8.5a.75.75 0 0 1-1.136.643L11 10.575v.675A1.75 1.75 0 0 1 9.25 13h-7.5A1.75 1.75 0 0 1 0 11.25v-6.5C0 3.784.784 3 1.75 3h7.5c.966 0 1.75.784 1.75 1.75v.675l3.864-2.318A.75.75 0 0 1 16 3.75Zm-6.5 1a.25.25 0 0 0-.25-.25h-7.5a.25.25 0 0 0-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-6.5ZM11 8.825l3.5 2.1v-5.85l-3.5 2.1Z"></path>
+</svg>
+    <span aria-label="视频说明optimized_workflow_intro.mp4" class="m-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">优化的工作流程介绍.mp4</font></font></span>
+    <span class="dropdown-caret"></span>
+  </summary>
 
+  <video src="https://private-user-images.githubusercontent.com/13230914/321643329-356df23e-1604-483d-80a6-9517ece318aa.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc3MTAzOTAsIm5iZiI6MTcxNzcxMDA5MCwicGF0aCI6Ii8xMzIzMDkxNC8zMjE2NDMzMjktMzU2ZGYyM2UtMTYwNC00ODNkLTgwYTYtOTUxN2VjZTMxOGFhLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA2VDIxNDEzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ3ZmU4YjcwY2JjNTMxODE4MGIxMWFlMTdjZDdjN2MyNTJhZWE1ZWFiNWJlZTM0YjEzMDM3MTljNjM2M2Y3MTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.HLTsANPWA5wsLb9Et9W7m9omxJuobmT3mzZe70pfp7Y" data-canonical-src="https://private-user-images.githubusercontent.com/13230914/321643329-356df23e-1604-483d-80a6-9517ece318aa.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc3MTAzOTAsIm5iZiI6MTcxNzcxMDA5MCwicGF0aCI6Ii8xMzIzMDkxNC8zMjE2NDMzMjktMzU2ZGYyM2UtMTYwNC00ODNkLTgwYTYtOTUxN2VjZTMxOGFhLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA2VDIxNDEzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ3ZmU4YjcwY2JjNTMxODE4MGIxMWFlMTdjZDdjN2MyNTJhZWE1ZWFiNWJlZTM0YjEzMDM3MTljNjM2M2Y3MTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.HLTsANPWA5wsLb9Et9W7m9omxJuobmT3mzZe70pfp7Y" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 
-Dify is an open-source LLM app development platform. Its intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. Here's a list of the core features:
-</br> </br>
+  </video>
+</details>
 
-**1. Workflow**: 
-  Build and test powerful AI workflows on a visual canvas, leveraging all the following features and beyond.
-
-
-  https://github.com/langgenius/dify/assets/13230914/356df23e-1604-483d-80a6-9517ece318aa
-
-
-
-**2. Comprehensive model support**: 
-  Seamless integration with hundreds of proprietary / open-source LLMs from dozens of inference providers and self-hosted solutions, covering GPT, Mistral, Llama3, and any OpenAI API-compatible models. A full list of supported model providers can be found [here](https://docs.dify.ai/getting-started/readme/model-providers).
-
-![providers-v5](https://github.com/langgenius/dify/assets/13230914/5a17bdbe-097a-4100-8363-40255b70f6e3)
-
-
-**3. Prompt IDE**: 
-  Intuitive interface for crafting prompts, comparing model performance, and adding additional features such as text-to-speech to a chat-based app. 
-
-**4. RAG Pipeline**: 
-  Extensive RAG capabilities that cover everything from document ingestion to retrieval, with out-of-box support for text extraction from PDFs, PPTs, and other common document formats.
-
-**5. Agent capabilities**: 
-  You can define agents based on LLM Function Calling or ReAct, and add pre-built or custom tools for the agent. Dify provides 50+ built-in tools for AI agents, such as Google Search, DELL·E, Stable Diffusion and WolframAlpha.
-
-**6. LLMOps**: 
-  Monitor and analyze application logs and performance over time. You could continuously improve prompts, datasets, and models based on production data and annotations.
-
-**7. Backend-as-a-Service**: 
-  All of Dify's offerings come with corresponding APIs, so you could effortlessly integrate Dify into your own business logic.
-
-
-## Feature comparison
-<table style="width: 100%;">
-  <tr>
-    <th align="center">Feature</th>
-    <th align="center">Dify.AI</th>
-    <th align="center">LangChain</th>
-    <th align="center">Flowise</th>
-    <th align="center">OpenAI Assistants API</th>
-  </tr>
-  <tr>
-    <td align="center">Programming Approach</td>
-    <td align="center">API + App-oriented</td>
-    <td align="center">Python Code</td>
-    <td align="center">App-oriented</td>
-    <td align="center">API-oriented</td>
-  </tr>
-  <tr>
-    <td align="center">Supported LLMs</td>
-    <td align="center">Rich Variety</td>
-    <td align="center">Rich Variety</td>
-    <td align="center">Rich Variety</td>
-    <td align="center">OpenAI-only</td>
-  </tr>
-  <tr>
-    <td align="center">RAG Engine</td>
-    <td align="center">✅</td>
-    <td align="center">✅</td>
-    <td align="center">✅</td>
-    <td align="center">✅</td>
-  </tr>
-  <tr>
-    <td align="center">Agent</td>
-    <td align="center">✅</td>
-    <td align="center">✅</td>
-    <td align="center">❌</td>
-    <td align="center">✅</td>
-  </tr>
-  <tr>
-    <td align="center">Workflow</td>
-    <td align="center">✅</td>
-    <td align="center">❌</td>
-    <td align="center">✅</td>
-    <td align="center">❌</td>
-  </tr>
-  <tr>
-    <td align="center">Observability</td>
-    <td align="center">✅</td>
-    <td align="center">✅</td>
-    <td align="center">❌</td>
-    <td align="center">❌</td>
-  </tr>
-  <tr>
-    <td align="center">Enterprise Features (SSO/Access control)</td>
-    <td align="center">✅</td>
-    <td align="center">❌</td>
-    <td align="center">❌</td>
-    <td align="center">❌</td>
-  </tr>
-  <tr>
-    <td align="center">Local Deployment</td>
-    <td align="center">✅</td>
-    <td align="center">✅</td>
-    <td align="center">✅</td>
-    <td align="center">❌</td>
-  </tr>
-</table>
-
-## Using Dify
-
-- **Cloud </br>**
-We host a [Dify Cloud](https://dify.ai) service for anyone to try with zero setup. It provides all the capabilities of the self-deployed version, and includes 200 free GPT-4 calls in the sandbox plan.
-
-- **Self-hosting Dify Community Edition</br>**
-Quickly get Dify running in your environment with this [starter guide](#quick-start).
-Use our [documentation](https://docs.dify.ai) for further references and more in-depth instructions.
-
-- **Dify for enterprise / organizations</br>**
-We provide additional enterprise-centric features. [Schedule a meeting with us](https://cal.com/guchenhe/30min) or [send us an email](mailto:business@dify.ai?subject=[GitHub]Business%20License%20Inquiry) to discuss enterprise needs. </br>
-  > For startups and small businesses using AWS, check out [Dify Premium on AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-t22mebxzwjhu6) and deploy it to your own AWS VPC with one-click. It's an affordable AMI offering with the option to create apps with custom logo and branding.
-
-
-## Staying ahead
-
-Star Dify on GitHub and be instantly notified of new releases.
-
-![star-us](https://github.com/langgenius/dify/assets/13230914/b823edc1-6388-4e25-ad45-2f6b187adbb4)
-
-
-
-## Quick start
-> Before installing Dify, make sure your machine meets the following minimum system requirements:
-> 
->- CPU >= 2 Core
->- RAM >= 4GB
-
-</br>
-
-The easiest way to start the Dify server is to run our [docker-compose.yml](docker/docker-compose.yaml) file. Before running the installation command, make sure that [Docker](https://docs.docker.com/get-docker/) and [Docker Compose](https://docs.docker.com/compose/install/) are installed on your machine:
-
-```bash
-cd docker
-docker compose up -d
-```
-
-After running, you can access the Dify dashboard in your browser at [http://localhost/install](http://localhost/install) and start the initialization process.
-
-> If you'd like to contribute to Dify or do additional development, refer to our [guide to deploying from source code](https://docs.dify.ai/getting-started/install-self-hosted/local-source-code)
-
-## Next steps
-
-If you need to customize the configuration, please refer to the comments in our [docker-compose.yml](docker/docker-compose.yaml) file and manually set the environment configuration. After making the changes, please run `docker-compose up -d` again. You can see the full list of environment variables [here](https://docs.dify.ai/getting-started/install-self-hosted/environments).
-
-If you'd like to configure a highly-available setup, there are community-contributed [Helm Charts](https://helm.sh/) which allow Dify to be deployed on Kubernetes.
-
-- [Helm Chart by @LeoQuote](https://github.com/douban/charts/tree/master/charts/dify)
-- [Helm Chart by @BorisPolonsky](https://github.com/BorisPolonsky/dify-helm)
-
-
-## Contributing
-
-For those who'd like to contribute code, see our [Contribution Guide](https://github.com/langgenius/dify/blob/main/CONTRIBUTING.md). 
-At the same time, please consider supporting Dify by sharing it on social media and at events and conferences.
-
-
-> We are looking for contributors to help with translating Dify to languages other than Mandarin or English. If you are interested in helping, please see the [i18n README](https://github.com/langgenius/dify/blob/main/web/i18n/README.md) for more information, and leave us a comment in the `global-users` channel of our [Discord Community Server](https://discord.gg/8Tpq4AcN9c).
-
-**Contributors**
-
-<a href="https://github.com/langgenius/dify/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=langgenius/dify" />
-</a>
-
-## Community & contact
-
-* [Github Discussion](https://github.com/langgenius/dify/discussions). Best for: sharing feedback and asking questions.
-* [GitHub Issues](https://github.com/langgenius/dify/issues). Best for: bugs you encounter using Dify.AI, and feature proposals. See our [Contribution Guide](https://github.com/langgenius/dify/blob/main/CONTRIBUTING.md).
-* [Email](mailto:support@dify.ai?subject=[GitHub]Questions%20About%20Dify). Best for: questions you have about using Dify.AI.
-* [Discord](https://discord.gg/FngNHpbcY7). Best for: sharing your applications and hanging out with the community.
-* [Twitter](https://twitter.com/dify_ai). Best for: sharing your applications and hanging out with the community.
-
-Or, schedule a meeting directly with a team member:
-
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2. 全面的模型支持</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：与数十家推理提供商和自托管解决方案的数百个专有/开源 LLM 无缝集成，涵盖 GPT、Mistral、Llama3 和任何兼容 OpenAI API 的模型。支持的模型提供商的完整列表可</font></font><a href="https://docs.dify.ai/getting-started/readme/model-providers" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在此处</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">找到。</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/13230914/321881730-5a17bdbe-097a-4100-8363-40255b70f6e3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc3MTAzOTAsIm5iZiI6MTcxNzcxMDA5MCwicGF0aCI6Ii8xMzIzMDkxNC8zMjE4ODE3MzAtNWExN2JkYmUtMDk3YS00MTAwLTgzNjMtNDAyNTViNzBmNmUzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA2VDIxNDEzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ0MjE2OWU3MTQ2YTg5NzU1ZmU2MTRhM2M5NTEzOWNiODlkYTc0NjE2M2QyYTY5MDE2NzdjY2JlNDE4MjE5ODYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.sQIuVAY754CsiuXigmhg526TmlZCxb2J81x1Sh5Zalk"><img src="https://private-user-images.githubusercontent.com/13230914/321881730-5a17bdbe-097a-4100-8363-40255b70f6e3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc3MTAzOTAsIm5iZiI6MTcxNzcxMDA5MCwicGF0aCI6Ii8xMzIzMDkxNC8zMjE4ODE3MzAtNWExN2JkYmUtMDk3YS00MTAwLTgzNjMtNDAyNTViNzBmNmUzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA2VDIxNDEzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ0MjE2OWU3MTQ2YTg5NzU1ZmU2MTRhM2M5NTEzOWNiODlkYTc0NjE2M2QyYTY5MDE2NzdjY2JlNDE4MjE5ODYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.sQIuVAY754CsiuXigmhg526TmlZCxb2J81x1Sh5Zalk" alt="提供者-v5" style="max-width: 100%;"></a></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3. Prompt IDE</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：直观的界面，用于制作提示、比较模型性能以及向基于聊天的应用程序添加文本转语音等附加功能。</font></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4. RAG Pipeline</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：广泛的 RAG 功能涵盖从文档提取到检索的所有内容，并提供从 PDF、PPT 和其他常见文档格式中提取文本的开箱即用支持。</font></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5. 代理能力</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：您可以基于 LLM Function Calling 或 ReAct 定义代理，并为代理添加预构建或自定义工具。Dify 为 AI 代理提供了 50+ 内置工具，例如 Google Search、DELL·E、Stable Diffusion 和 WolframAlpha。</font></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.LLMOps</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：监控和分析应用程序日志和性能。您可以根据生产数据和注释不断改进提示、数据集和模型。</font></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">7. 后端即服务</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Dify 的所有产品都配有相应的 API，因此您可以毫不费力地将 Dify 集成到您自己的业务逻辑中。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">功能比较</font></font></h2><a id="user-content-feature-comparison" class="anchor" aria-label="永久链接：功能比较" href="#feature-comparison"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <table>
-  <tr>
-    <th>Point of Contact</th>
-    <th>Purpose</th>
+  <tbody><tr>
+    <th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特征</font></font></th>
+    <th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">人工智能</font></font></th>
+    <th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">朗链</font></font></th>
+    <th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">弗洛西斯</font></font></th>
+    <th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenAI 助手 API</font></font></th>
   </tr>
   <tr>
-    <td><a href='https://cal.com/guchenhe/15min' target='_blank'><img class="schedule-button" src='https://github.com/langgenius/dify/assets/13230914/9ebcd111-1205-4d71-83d5-948d70b809f5' alt='Git-Hub-README-Button-3x' style="width: 180px; height: auto; object-fit: contain;"/></a></td>
-    <td>Business enquiries & product feedback</td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编程方法</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">API+App导向</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Python 代码</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">面向应用</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">面向API</font></font></td>
   </tr>
   <tr>
-    <td><a href='https://cal.com/pinkbanana' target='_blank'><img class="schedule-button" src='https://github.com/langgenius/dify/assets/13230914/d1edd00a-d7e4-4513-be6c-e57038e143fd' alt='Git-Hub-README-Button-2x' style="width: 180px; height: auto; object-fit: contain;"/></a></td>
-    <td>Contributions, issues & feature requests</td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持的法学硕士</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">丰富多样</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">丰富多样</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">丰富多样</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">仅限 OpenAI</font></font></td>
   </tr>
-</table>
-
-## Star history
-
-[![Star History Chart](https://api.star-history.com/svg?repos=langgenius/dify&type=Date)](https://star-history.com/#langgenius/dify&Date)
-
-
-## Security disclosure
-
-To protect your privacy, please avoid posting security issues on GitHub. Instead, send your questions to security@dify.ai and we will provide you with a more detailed answer.
-
-## License
-
-This repository is available under the [Dify Open Source License](LICENSE), which is essentially Apache 2.0 with a few additional restrictions.
+  <tr>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RAG 引擎</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅</font></font></td>
+  </tr>
+  <tr>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代理人</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❌</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅</font></font></td>
+  </tr>
+  <tr>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">工作流</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❌</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❌</font></font></td>
+  </tr>
+  <tr>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可观察性</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❌</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❌</font></font></td>
+  </tr>
+  <tr>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">企业功能（SSO/访问控制）</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❌</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❌</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❌</font></font></td>
+  </tr>
+  <tr>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本地部署</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅</font></font></td>
+    <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❌</font></font></td>
+  </tr>
+</tbody></table>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Dify</font></font></h2><a id="user-content-using-dify" class="anchor" aria-label="永久链接：使用 Dify" href="#using-dify"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">云</font></font><br></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+我们托管了</font></font><a href="https://dify.ai" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dify Cloud</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">服务，任何人都可以零设置试用。它提供了自部署版本的所有功能，并在沙盒计划中包含 200 次免费 GPT-4 调用。</font></font></p>
+</li>
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自托管 Dify 社区版使用此</font></font><br></strong><font style="vertical-align: inherit;"></font><a href="#quick-start"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+快速在您的环境中运行 Dify </font><font style="vertical-align: inherit;">。使用我们的</font></font><a href="https://docs.dify.ai" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">获取进一步的参考和更深入的说明。</font></font></p>
+</li>
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dify 适用于企业/组织</font></font><br></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+我们提供额外的以企业为中心的功能。</font></font><a href="https://cal.com/guchenhe/30min" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与我们安排会议</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font></font><a href="mailto:business@dify.ai?subject=%5BGitHub%5DBusiness%20License%20Inquiry"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发送电子邮件</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讨论企业需求。</font></font><br></p>
+<blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于使用 AWS 的初创公司和小型企业，请查看</font></font><a href="https://aws.amazon.com/marketplace/pp/prodview-t22mebxzwjhu6" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AWS Marketplace 上的 Dify Premium</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，并一键将其部署到您自己的 AWS VPC。这是一款经济实惠的 AMI 产品，可以选择创建具有自定义徽标和品牌的应用程序。</font></font></p>
+</blockquote>
+</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">保持领先</font></font></h2><a id="user-content-staying-ahead" class="anchor" aria-label="永久链接：保持领先" href="#staying-ahead"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 GitHub 上为 Dify 加星标，即可立即收到新版本的通知。</font></font></p>
+<p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/13230914/320902970-b823edc1-6388-4e25-ad45-2f6b187adbb4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc3MTAzOTAsIm5iZiI6MTcxNzcxMDA5MCwicGF0aCI6Ii8xMzIzMDkxNC8zMjA5MDI5NzAtYjgyM2VkYzEtNjM4OC00ZTI1LWFkNDUtMmY2YjE4N2FkYmI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA2VDIxNDEzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQxNDYyOTEyMWU2ODI0MjhkNmYxZWMwMjYwODVlNGNmZGFhNDhmYzJlMzQ0MzBlNjkxNmQ3NTE2MDJmYjkxZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.u2iYfMkySbUGCQkZg-iSHiq7qxrW8r0tXZJNbBY2aRI" data-target="animated-image.originalLink"><img src="https://private-user-images.githubusercontent.com/13230914/320902970-b823edc1-6388-4e25-ad45-2f6b187adbb4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc3MTAzOTAsIm5iZiI6MTcxNzcxMDA5MCwicGF0aCI6Ii8xMzIzMDkxNC8zMjA5MDI5NzAtYjgyM2VkYzEtNjM4OC00ZTI1LWFkNDUtMmY2YjE4N2FkYmI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA2VDIxNDEzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQxNDYyOTEyMWU2ODI0MjhkNmYxZWMwMjYwODVlNGNmZGFhNDhmYzJlMzQ0MzBlNjkxNmQ3NTE2MDJmYjkxZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.u2iYfMkySbUGCQkZg-iSHiq7qxrW8r0tXZJNbBY2aRI" alt="星美" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://private-user-images.githubusercontent.com/13230914/320902970-b823edc1-6388-4e25-ad45-2f6b187adbb4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc3MTAzOTAsIm5iZiI6MTcxNzcxMDA5MCwicGF0aCI6Ii8xMzIzMDkxNC8zMjA5MDI5NzAtYjgyM2VkYzEtNjM4OC00ZTI1LWFkNDUtMmY2YjE4N2FkYmI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA2VDIxNDEzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQxNDYyOTEyMWU2ODI0MjhkNmYxZWMwMjYwODVlNGNmZGFhNDhmYzJlMzQ0MzBlNjkxNmQ3NTE2MDJmYjkxZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.u2iYfMkySbUGCQkZg-iSHiq7qxrW8r0tXZJNbBY2aRI" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="星美" class="AnimatedImagePlayer-animatedImage" src="https://private-user-images.githubusercontent.com/13230914/320902970-b823edc1-6388-4e25-ad45-2f6b187adbb4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc3MTAzOTAsIm5iZiI6MTcxNzcxMDA5MCwicGF0aCI6Ii8xMzIzMDkxNC8zMjA5MDI5NzAtYjgyM2VkYzEtNjM4OC00ZTI1LWFkNDUtMmY2YjE4N2FkYmI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA2VDIxNDEzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQxNDYyOTEyMWU2ODI0MjhkNmYxZWMwMjYwODVlNGNmZGFhNDhmYzJlMzQ0MzBlNjkxNmQ3NTE2MDJmYjkxZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.u2iYfMkySbUGCQkZg-iSHiq7qxrW8r0tXZJNbBY2aRI" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="800" height="396"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play 星美" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play 星美">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="Open 星美 in new window" class="AnimatedImagePlayer-button" href="https://private-user-images.githubusercontent.com/13230914/320902970-b823edc1-6388-4e25-ad45-2f6b187adbb4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc3MTAzOTAsIm5iZiI6MTcxNzcxMDA5MCwicGF0aCI6Ii8xMzIzMDkxNC8zMjA5MDI5NzAtYjgyM2VkYzEtNjM4OC00ZTI1LWFkNDUtMmY2YjE4N2FkYmI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA2VDIxNDEzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQxNDYyOTEyMWU2ODI0MjhkNmYxZWMwMjYwODVlNGNmZGFhNDhmYzJlMzQ0MzBlNjkxNmQ3NTE2MDJmYjkxZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.u2iYfMkySbUGCQkZg-iSHiq7qxrW8r0tXZJNbBY2aRI" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速开始</font></font></h2><a id="user-content-quick-start" class="anchor" aria-label="永久链接：快速入门" href="#quick-start"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在安装 Dify 之前，请确保您的机器满足以下最低系统要求：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CPU &gt;= 2 核</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内存 &gt;= 4GB</font></font></li>
+</ul>
+</blockquote>
+<br>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">启动 Dify 服务器最简单的方法是运行我们的</font></font><a href="/langgenius/dify/blob/main/docker/docker-compose.yaml"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">docker-compose.yml</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件。在运行安装命令之前，请确保</font><font style="vertical-align: inherit;">您的机器上安装了</font></font><a href="https://docs.docker.com/get-docker/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://docs.docker.com/compose/install/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker Compose ：</font></font></a><font style="vertical-align: inherit;"></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-c1">cd</span> docker
+docker compose up -d</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="cd docker
+docker compose up -d" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行后，您可以通过浏览器通过</font></font><a href="http://localhost/install" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://localhost/install</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">访问 Dify 仪表板并开始初始化过程。</font></font></p>
+<blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想为 Dify 做出贡献或进行其他开发，请参阅我们的</font></font><a href="https://docs.dify.ai/getting-started/install-self-hosted/local-source-code" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">源代码部署指南</font></font></a></p>
+</blockquote>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下一步</font></font></h2><a id="user-content-next-steps" class="anchor" aria-label="永久链接：后续步骤" href="#next-steps"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="/langgenius/dify/blob/main/docker/docker-compose.yaml"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您需要自定义配置，请参考我们docker-compose.yml</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件中的注释</font><font style="vertical-align: inherit;">，手动设置环境配置。修改完成后，请再次运行。您可以</font><a href="https://docs.dify.ai/getting-started/install-self-hosted/environments" rel="nofollow"><font style="vertical-align: inherit;">在此处</font></a></font><code>docker-compose up -d</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看环境变量的完整列表</font><font style="vertical-align: inherit;">。</font></font><a href="https://docs.dify.ai/getting-started/install-self-hosted/environments" rel="nofollow"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想配置高可用性设置，可以使用社区贡献的</font></font><a href="https://helm.sh/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Helm Charts</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，允许将 Dify 部署在 Kubernetes 上。</font></font></p>
+<ul dir="auto">
+<li><a href="https://github.com/douban/charts/tree/master/charts/dify"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Helm Chart 由 @LeoQuote 提供</font></font></a></li>
+<li><a href="https://github.com/BorisPolonsky/dify-helm"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Helm Chart 由 @BorisPolonsky 提供</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2><a id="user-content-contributing" class="anchor" aria-label="永久链接：贡献" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于那些想要贡献代码的人，请参阅我们的</font></font><a href="https://github.com/langgenius/dify/blob/main/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。同时，请考虑通过在社交媒体、活动和会议上分享来支持 Dify。</font></font></p>
+<blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们正在寻找贡献者来帮助将 Dify 翻译成除普通话或英语以外的其他语言。如果您有兴趣提供帮助，请参阅</font></font><a href="https://github.com/langgenius/dify/blob/main/web/i18n/README.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">i18n README</font></font></a><font style="vertical-align: inherit;"></font><code>global-users</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解更多信息，并在我们的</font></font><a href="https://discord.gg/8Tpq4AcN9c" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord 社区服务器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">频道中给我们留言</font><font style="vertical-align: inherit;">。</font></font></p>
+</blockquote>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献者</font></font></strong></p>
+<a href="https://github.com/langgenius/dify/graphs/contributors">
+  <img src="https://camo.githubusercontent.com/4b2997fe256af5f4be3de69fb7feba203d813eccb42ef4a983f42c31caea90cd/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d6c616e6767656e6975732f64696679" data-canonical-src="https://contrib.rocks/image?repo=langgenius/dify" style="max-width: 100%;">
+</a>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区与联系方式</font></font></h2><a id="user-content-community--contact" class="anchor" aria-label="永久链接：社区和联系方式" href="#community--contact"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://github.com/langgenius/dify/discussions"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Github 讨论</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。最适合：分享反馈和提出问题。</font></font></li>
+<li><a href="https://github.com/langgenius/dify/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitHub 问题</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。最适合：使用 Dify.AI 时遇到的错误和功能建议。请参阅我们的</font></font><a href="https://github.com/langgenius/dify/blob/main/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><a href="mailto:support@dify.ai?subject=%5BGitHub%5DQuestions%20About%20Dify"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电子邮件</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。最适合：有关使用 Dify.AI 的问题。</font></font></li>
+<li><a href="https://discord.gg/FngNHpbcY7" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。最适合：分享您的应用程序并与社区一起闲逛。</font></font></li>
+<li><a href="https://twitter.com/dify_ai" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Twitter</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。最适合：分享您的应用程序并与社区成员交流。</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或者直接与团队成员安排会议：</font></font></p>
+<table>
+  <tbody><tr>
+    <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">接触点</font></font></th>
+    <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目的</font></font></th>
+  </tr>
+  <tr>
+    <td><a href="https://cal.com/guchenhe/15min" rel="nofollow"><img src="https://private-user-images.githubusercontent.com/13230914/321629088-9ebcd111-1205-4d71-83d5-948d70b809f5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc3MTAzOTAsIm5iZiI6MTcxNzcxMDA5MCwicGF0aCI6Ii8xMzIzMDkxNC8zMjE2MjkwODgtOWViY2QxMTEtMTIwNS00ZDcxLTgzZDUtOTQ4ZDcwYjgwOWY1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA2VDIxNDEzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAxMTFlYjViY2Q2MjUwZGIxYzdjNTE3NDYwNTdmN2M3ZDg4NzYzY2ExYTlmZWI2YmRjY2YwOGM2MmMyMmQzNDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.HOK8VfrIHBXfoOax4nIrxdnSOOwIp-bTBL2BCFk4MoA" alt="Git-Hub-README-按钮-3x" style="width: 180px; max-width: 100%;" secured-asset-link=""></a></td>
+    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">业务咨询和产品反馈</font></font></td>
+  </tr>
+  <tr>
+    <td><a href="https://cal.com/pinkbanana" rel="nofollow"><img src="https://private-user-images.githubusercontent.com/13230914/321629120-d1edd00a-d7e4-4513-be6c-e57038e143fd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc3MTAzOTAsIm5iZiI6MTcxNzcxMDA5MCwicGF0aCI6Ii8xMzIzMDkxNC8zMjE2MjkxMjAtZDFlZGQwMGEtZDdlNC00NTEzLWJlNmMtZTU3MDM4ZTE0M2ZkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA2VDIxNDEzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI3ODFjY2RiODVjMDI5ZjIxYjcyMTgwODM2ZjRhMWExNGJiMjZiMTU4NTQ1MGExYzc1M2ZjYmRhYjY5ZDA4NmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.MAZti2Fqzyq8Wqgr0xFugXaeBFb_RLOA8-q1eQ7N2ko" alt="Git-Hub-README-按钮-2x" style="width: 180px; max-width: 100%;" secured-asset-link=""></a></td>
+    <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献、问题和功能请求</font></font></td>
+  </tr>
+</tbody></table>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">明星历史</font></font></h2><a id="user-content-star-history" class="anchor" aria-label="永久链接：明星历史" href="#star-history"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://star-history.com/#langgenius/dify&amp;Date" rel="nofollow"><img src="https://camo.githubusercontent.com/039cb5b96524108846e6718252fb4a0bdfab0ec892f6cdb3fca63517b294e88c/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d6c616e6767656e6975732f6469667926747970653d44617465" alt="星历史图" data-canonical-src="https://api.star-history.com/svg?repos=langgenius/dify&amp;type=Date" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安全披露</font></font></h2><a id="user-content-security-disclosure" class="anchor" aria-label="永久链接：安全披露" href="#security-disclosure"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为了保护您的隐私，请避免在 GitHub 上发布安全问题。相反，请将您的问题发送至</font></font><a href="mailto:security@dify.ai"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">security@dify.ai</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，我们将为您提供更详细的答案。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="/langgenius/dify/blob/main/LICENSE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该存储库在Dify 开放源代码许可证</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下可用</font><font style="vertical-align: inherit;">，该许可证本质上是 Apache 2.0，但有一些额外的限制。</font></font></p>
+</article></div>
